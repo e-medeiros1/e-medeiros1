@@ -3,7 +3,7 @@
 - 🌱 Atualmente estou aprendendo Dart e Flutter,
 - 📫 Você pode encontrar mais em: https://www.linkedin.com/in/erimedeiros/.
 
-=======================================================================================================
+========================================================================================
 
 - 👋 Hi, i’m Erilândio Santos Medeiros, i am currently taking the 7th period of the Computer Science course at IFMA (Federal Institute of Education, Science and Technology of Maranhão).
 - 👀 I’m interested in mobile app development,
