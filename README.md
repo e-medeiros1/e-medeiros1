@@ -22,10 +22,10 @@
   
 
 
- <div>
+ <div align="center">
    <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"</a>
    <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"</a>
-   <a href ="http://gmail.com.br/s.medeiros@acad.ifma.edu.br"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>  
+   <a  href ="http://gmail.com.br/s.medeiros@acad.ifma.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>  
    
      
   </div>
