@@ -1,5 +1,5 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=e-medeiros1&label=Profile%20views&color=0e75b6&style=flat" alt="e-medeiros1" /> </p>
+
 <div align="center">
   <a href="https://github.com/e-medeiros1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-medeiros1&theme=blue-green"/>
