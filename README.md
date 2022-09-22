@@ -17,7 +17,7 @@
 
  <div align="center">
    <a  href ="http://gmail.com.br/s.medeiros@acad.ifma.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a> 
-    <a target="_blank" href="https://github.com/e-medeiros1/e-medeiros1/files/8942824/Curriculo.Erilandio.Santos.Medeiros.pdf">
+    <a target="_blank" href="https://github.com/e-medeiros1/e-medeiros1/files/9626164/CV.Erilandio.Santos.Medeiros.-.Final.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
 </br>
