@@ -3,7 +3,8 @@
 <div align="center">
   <h2> I will commit any component i've finish </h2><br>
   <a href="https://github.com/e-medeiros1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=e-medeiros1&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=e-medeiros1&show_icons=true&theme=blue-green"/>
+
 
 </div>
 <div style="display: inline_block"><br>  
