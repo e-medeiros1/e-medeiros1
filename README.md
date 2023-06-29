@@ -17,7 +17,7 @@
 
  <div align="center">
    <a  href ="http://gmail.com.br/hsymetry@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a> 
-    <a target="_blank" href="https://github.com/e-medeiros1/e-medeiros1/files/11725231/Resume.-.Erilandio.Santos.Medeiros.pdf">
+    <a target="_blank" href="https://github.com/e-medeiros1/e-medeiros1/files/11901180/my_cv.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
 </br>
