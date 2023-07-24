@@ -4,10 +4,10 @@
   <h2> I will commit any component i've finish </h2><br>
   <a href="https://github.com/e-medeiros1">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=e-medeiros1&show_icons=true&theme=blue-green"/>
-
-
 </div>
-<div style="display: inline_block"><br>  
+
+<div style="display: inline_block">
+  <br>  
 </div>
 
 
@@ -19,10 +19,15 @@
    <a  href ="http://gmail.com.br/hsymetry@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a> 
     <a target="_blank" href="https://github.com/e-medeiros1/e-medeiros1/files/11901180/my_cv.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
+      
   </a>
 </br>
      </br>
   </div>
+      <p><img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/><br>  </p>
+  
+
+
 <!---
 e-medeiros1/e-medeiros1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
