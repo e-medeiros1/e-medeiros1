@@ -1,13 +1,9 @@
 
 
 <div align="center">
-  <h2> Born to build widgets, forced to learn architecture </h2><br>
-  <a href="https://github.com/e-medeiros1">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=e-medeiros1&show_icons=true&theme=blue-green"/>
+  <h2> Born to build widgets, forced to learn architecture </h2>
 </div>
-
 <div style="display: inline_block">
-  <br>  
 </div>
 
 
