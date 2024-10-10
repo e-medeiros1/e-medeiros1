@@ -8,7 +8,7 @@
 
  <div align="center">
 <!--    <a  href ="http://gmail.com.br/hsymetry@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>  -->
-    <a target="_blank" href="https://github.com/user-attachments/files/16503010/Erilandio.s.Resume.pdf">
+    <a target="_blank" href="https://github.com/user-attachments/files/17334624/Erilandio.s.Resume.pdf">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
       
 
